@@ -10,6 +10,10 @@
  */
 
 // Part 1 answer 👇🏻 ...
+let fullName = "Mariam Alenezi";
+let yearOfBirth = 1998;
+let hobby = "Reading";
+let funFact = "fun fact";
 
 
 
